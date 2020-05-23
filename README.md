@@ -15,13 +15,14 @@ To do List:
 - <s> Change author title </s>
 - <s> Reorder social media links </s>
 - <s> Add Introduction blurb </s>
+- <s> Add search</s>
+
 - Figure out how to make pages
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Create About page and Posts page
 - Migrate Medium articles from Medium to the website
 - Add CV to website
 - Add Dark Mode
-- Add search
 
 
 

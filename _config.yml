@@ -56,7 +56,7 @@ plugins:
 # Site Author
 author:
   name             : "Daniel Downs"
-  avatar           : "assets/images/dan photo cropped.jpg"
+  avatar           : "assets/images/downs photo cropped.png"
   bio              : "*insert bio here*"
   location         : "New York, NY"
   email            : "danielrdowns@gmail.com"

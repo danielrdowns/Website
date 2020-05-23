@@ -71,7 +71,7 @@ plugins:
 author:
   name             : "Daniel Downs"
   avatar           : "assets/images/downs photo cropped.png"
-  bio              : "*insert bio here 2*"
+  bio              : "*insert bio here*"
   location         : "New York, NY"
   email            : "danielrdowns@gmail.com"
   links:
@@ -157,6 +157,39 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _docs
+  - scope:
+      path: "_docs"
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid

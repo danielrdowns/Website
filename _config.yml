@@ -71,7 +71,7 @@ plugins:
 author:
   name             : "Daniel Downs"
   avatar           : "assets/images/downs photo cropped.png"
-  bio              : "*insert bio here*"
+  bio              : "*insert bio here 2*"
   location         : "New York, NY"
   email            : "danielrdowns@gmail.com"
   links:
@@ -121,6 +121,22 @@ footer:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@danielrdowns"
+
+# Social Sharing
+twitter:
+  username               : &twitter "DanDownsStartup"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/bio-photo.jpg" # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+      - "https://twitter.com/DanDownsStartup"
 
 defaults:
   # _posts

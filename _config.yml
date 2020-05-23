@@ -71,7 +71,7 @@ plugins:
 author:
   name             : "Daniel Downs"
   avatar           : "assets/images/downs photo cropped.png"
-  bio              : "*insert bio here*"
+  bio              : "*insert bio here 2*"
   location         : "New York, NY"
   email            : "danielrdowns@gmail.com"
   links:
@@ -197,4 +197,62 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# More Site Settings
+# breadcrumbs            : false # true, false (default)
+# words_per_minute         : 200
+# comments:
+#  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+#  disqus:
+#    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#  discourse:
+#    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+#    appid                :
+#    num_posts            : # 5 (default)
+#    colorscheme          : # "light" (default), "dark"
+#  utterances:
+#    theme                : # "github-light" (default), "github-dark"
+#    issue_term           : # "pathname" (default)
+#  staticman:
+#    branch               : # "master"
+#    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+# reCaptcha:
+#  siteKey                :
+#  secret                 :
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
+# search                   : # true, false (default)
+# search_full_content      : # true, false (default)
+# search_provider          : # lunr (default), algolia, google
+# algolia:
+#  application_id         : # YOUR_APPLICATION_ID
+#  index_name             : # YOUR_INDEX_NAME
+#  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : # true (default), false
+# google:
+#   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+#   instant_search         : # false (default), true
+# twitter_username: username
+# github_username: username
+
+# SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# yandex_site_verification :
+# naver_site_verification  :
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 

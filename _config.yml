@@ -28,14 +28,15 @@ repository               : "danielrdowns/danielrdowns.github.io" # GitHub userna
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title.
-twitter_username: username
-github_username: username
+twitter_username: DanDownsStartup
+github_username: danielrdowns
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: danielrdowns/minimal-mistakes-clone
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

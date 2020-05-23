@@ -35,7 +35,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: danielrdowns/minimal-mistakes-clone
+remote_theme: danielrdowns/minimal-mistakes-clone@4.19.2
 
 # Outputting
 permalink: /:categories/:title/
@@ -71,7 +71,7 @@ plugins:
 author:
   name             : "Daniel Downs"
   avatar           : "assets/images/downs photo cropped.png"
-  bio              : "*insert bio here 2*"
+  bio              : "*insert bio here*"
   location         : "New York, NY"
   email            : "danielrdowns@gmail.com"
   links:

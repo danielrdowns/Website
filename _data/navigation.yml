@@ -12,11 +12,11 @@ sidebar-sample:
   - title: "Navigation"
     children:
       - title: "Writings"
-        url: /
+        url: /posts/
       - title: "Projects"
-        url: /
+        url: /categories
       - title: "About"
-        url: /
+        url: /about/
       - title: "Contact"
         url: /contact/
 

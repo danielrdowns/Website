@@ -1,23 +1,23 @@
 main:
-  - title: "Posts"
+  - title: "Writings"
     url: /posts/
-  - title: "Categories"
+  - title: "Projects"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /tags/
     
 sidebar-sample:
   - title: "Navigation"
     children:
-      - title: "Posts"
+      - title: "Writings"
+        url: /
+      - title: "Projects"
         url: /
       - title: "About"
         url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
+      - title: "Contact"
         url: /
 
     

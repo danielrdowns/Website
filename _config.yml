@@ -163,7 +163,8 @@ defaults:
       type: docs
     values:
       sidebar:
-        nav: "docs"
+        title: "Sample title"
+        nav: sidebar-sample
   # _recipes
   - scope:
       path: ""

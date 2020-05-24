@@ -150,6 +150,9 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
   # _pages
   - scope:
       path: "_pages"
@@ -157,13 +160,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
   # _docs
   - scope:
       path: "_docs"
       type: docs
     values:
       sidebar:
-        title: "Sample title"
+        title: ""
         nav: sidebar-sample
   # _recipes
   - scope:
@@ -174,6 +180,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
   # _pets
   - scope:
       path: ""
@@ -183,6 +192,9 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      sidebar:
+        title: ""
+        nav: sidebar-sample
   # _portfolio
   - scope:
       path: ""
@@ -191,7 +203,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+      sidebar:
+        title: ""
+        nav: sidebar-sample
+        
 category_archive:
   type: liquid
   path: /categories/

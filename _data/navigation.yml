@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: https://danielrdowns.github.io/
   - title: "Writings"
     url: /posts/
   - title: "Projects"
@@ -13,8 +11,6 @@ main:
 sidebar-sample:
   - title: "Navigation"
     children:
-      - title: "Home"
-        url: https://danielrdowns.github.io/
       - title: "Writings"
         url: /posts/
       - title: "Projects"

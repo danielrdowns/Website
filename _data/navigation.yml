@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /hello/
   - title: "Writings"
     url: /posts/
   - title: "Projects"
@@ -11,6 +13,8 @@ main:
 sidebar-sample:
   - title: "Navigation"
     children:
+      - title: "Home"
+        url: /hello/
       - title: "Writings"
         url: /posts/
       - title: "Projects"

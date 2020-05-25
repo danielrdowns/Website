@@ -7,11 +7,10 @@ title: "About"
 
 Focused on building at present.
 
-Interested in what I'm working on? Check out [Projects](/projects/) for examples.
+Interested in what's cooking? Check out [Projects](/projects/) for the latest.
 
-Curious about my thoughts? Check out [Writings](/posts/) for fun stories and neuron misfirings.
+Curious about my thoughts? [Writings](/posts/) has fun stories and neuron misfirings.
 
-Care to drop me a line? Check out [Contact](/contact/) for how best to reach out.
-
+Care to drop me a line? Browse [Contact](/contact/) for how to best connect.
 
 

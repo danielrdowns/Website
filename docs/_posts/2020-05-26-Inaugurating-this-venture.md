@@ -30,6 +30,8 @@ This is not a bad thing. Seeing the world as it is allows one to take appropriat
 At this time we should [take stock, figure out where we want to go from here, decide a course of action, and execute.
 ](https://en.wikipedia.org/wiki/OODA_loop) 
 
+At this time we should take stock, figure out where we want to go from here, decide a course of action, and execute.<sup><a href="#fn2" id="ref2">2</a></sup>
+
 For us as individuals and organizations - as families and communities - the choice is ours for what we want to see in a post-crisis world.
 
 Now is the time to roll up our shirtsleeves and get to work.
@@ -37,3 +39,5 @@ Now is the time to roll up our shirtsleeves and get to work.
 <hr></hr>
 
 <sup id="fn1">1. The specific method by which <i>Homo sapiens</i> ended up on top is still debated. All we know is that we're here and <i>Homo neanderthalensis</i> are not. <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
+
+<sup id="fn2">2. If you could sum up my execution philosophy in one sentence, "Act Stoic and do the [OODA Loop.](https://en.wikipedia.org/wiki/OODA_loop)" is probably it.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>

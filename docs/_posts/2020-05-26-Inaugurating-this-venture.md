@@ -19,7 +19,7 @@ I believe that building now is more important than ever.
 
 Regardless of whether you are launching a business, developing a novel product, crafting an innovative art project, or inaugurating some other endeavor, it is essential that we build.
 
-At this time, humanity as a species is again reminded that our supposed omnipotent dominion of Earth was merely a facade.
+At this time, humanity as a species is again reminded that our supposed omnipotent dominion of Earth was merely a <i>façade</i>.
 
 We are reminded of our mortality, our fragility, and our station in an unforgiving Universe.
 

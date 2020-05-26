@@ -40,4 +40,4 @@ Now is the time to roll up our shirtsleeves and get to work.
 
 <sup id="fn1">1. The specific method by which <i>Homo sapiens</i> ended up on top is still debated. All we know is that we're here and <i>Homo neanderthalensis</i> are not. <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
 
-<sup id="fn2">2. If you could sum up my execution philosophy in one sentence, "Act Stoic and do the [OODA Loop.](https://en.wikipedia.org/wiki/OODA_loop)" is probably it.<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+<sup id="fn2">2. Summing up my execution philosophy in one sentence, "[Act Stoic](https://www.wikihow.com/Be-Stoic) and do the [OODA Loop.](https://en.wikipedia.org/wiki/OODA_loop)".<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>

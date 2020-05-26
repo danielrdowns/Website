@@ -19,9 +19,14 @@ To do List:
 - <s> Figure out how to make pages</s>
 - <s> Create About page and Posts page</s>
 
-- Create "Website" page under projects
+- Remove posts from mmistakes fork
 - Migrate Medium articles from Medium to the website
+- Create "Website" page under projects
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
+- Point page to proper URL
+- Public launch
+
+v2.0 feature requests
 - System automatically post new posts to twitter
 - Add CV to website?
 - Add Dark Mode

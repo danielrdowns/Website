@@ -12,19 +12,21 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 To do List:
 
+- <s> Figure out how this 'Ruby" thing words </s>
 - <s> Change author title </s>
 - <s> Reorder social media links </s>
 - <s> Add Introduction blurb </s>
-- <s> Add search</s>
-- <s> Figure out how to make pages</s>
-- <s> Create About page and Posts page</s>
-
-- Remove posts from mmistakes fork
-- Website launch new Post
+- <s> Add search </s>
+- <s> Figure out how to make pages </s>
+- <s> Create About page and Posts page </s>
+- <s> Remove posts from mmistakes fork </s>
+- <s> Website launch new Post </s>
+- Migrate "About" page content to the front page
 - Migrate Medium articles from Medium to the website
 - Create "Website" page under projects
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Point page to proper URL
+- Make new "About" page content 
 - Public launch
 
 v2.0 feature requests

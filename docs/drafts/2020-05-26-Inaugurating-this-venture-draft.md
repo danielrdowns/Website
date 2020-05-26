@@ -14,7 +14,7 @@ We are reminded of our mortality, our fragility, and our station in an unforgivi
 
 This is not a bad thing. Seeing the world as it is allows one to take appropriate action.
 
-Homo sapiens did not spread to all corners of our globe by fleeing adversity, but through identifying challenges on the road ahead and dealing with them appropriately.
+<i>Homo sapiens</i> did not outcompete other human species & spread to all corners of our globe by fleeing adversity, but through identifying challenges on the road ahead and dealing with them appropriately.
 
 At this time we should [take stock, figure out where we want to go from here, decide a course of action, and execute.
 ](https://en.wikipedia.org/wiki/OODA_loop) 

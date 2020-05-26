@@ -27,9 +27,6 @@ This is not a bad thing. Seeing the world as it is allows one to take appropriat
 
 <i>Homo sapiens</i> did not outcompete other human species & spread to all corners of our globe by fleeing adversity, but through identifying challenges on the road ahead and dealing with them appropriately.<sup><a href="#fn1" id="ref1">1</a></sup>
 
-At this time we should [take stock, figure out where we want to go from here, decide a course of action, and execute.
-](https://en.wikipedia.org/wiki/OODA_loop) 
-
 At this time we should take stock, figure out where we want to go from here, decide a course of action, and execute.<sup><a href="#fn2" id="ref2">2</a></sup>
 
 For us as individuals and organizations - as families and communities - the choice is ours for what we want to see in a post-crisis world.

@@ -20,6 +20,7 @@ To do List:
 - <s> Create About page and Posts page</s>
 
 - Remove posts from mmistakes fork
+- Website launch new Post
 - Migrate Medium articles from Medium to the website
 - Create "Website" page under projects
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)

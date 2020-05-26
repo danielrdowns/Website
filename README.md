@@ -11,7 +11,6 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
 To do List:
-
 - <s> Figure out how this 'Ruby" thing words </s>
 - <s> Change author title </s>
 - <s> Reorder social media links </s>

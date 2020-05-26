@@ -16,13 +16,16 @@ To do List:
 - <s> Reorder social media links </s>
 - <s> Add Introduction blurb </s>
 - <s> Add search</s>
+- <s> Figure out how to make pages</s>
+- <s> Create About page and Posts page</s>
 
-- Figure out how to make pages
-- Add "History" page w/ versions, (ex. 1.0 - Site Created)
-- Create About page and Posts page
+- Create "Website" page under projects
 - Migrate Medium articles from Medium to the website
-- Add CV to website
+- Add "History" page w/ versions, (ex. 1.0 - Site Created)
+- System automatically post new posts to twitter
+- Add CV to website?
 - Add Dark Mode
+- Shorten sentence to one line: "Curious about my thoughts? Posts has fun stories & short musings."
 
 
 

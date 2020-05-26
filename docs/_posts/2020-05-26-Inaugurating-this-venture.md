@@ -36,4 +36,4 @@ Now is the time to roll up our shirtsleeves and get to work.
 
 <hr></hr>
 
-<sup id="fn1">1. [The specific method by which <i>Homo sapiens</i> ended up on top is still debated. All we know is that we're here and <i>Homo neanderthalensis</i> are not.]<a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
+<sup id="fn1">1. The specific method by which <i>Homo sapiens</i> ended up on top is still debated. All we know is that we're here and <i>Homo neanderthalensis</i> are not. <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>

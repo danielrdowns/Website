@@ -22,21 +22,21 @@ To do List:
 - <s> Remove posts from mmistakes fork </s>
 - <s> Website launch new Post </s>
 - <s>Migrate "About" page content to the front page</s>
+- Add Dark Mode
 - Create "Website" page under projects
-- Migrate Medium articles from Medium to the website
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Point page to proper URL
 - Public launch
 
 v2.0 feature requests
+- Migrate Medium articles from Medium to the website
 - Figure out what should go on About page:
 -- Maybe writings by collection?
 -- Maybe Fun Facts
 -- Maybe change site layout; replace index.html with Recent Posts content and return About page to prior status quo
 - System automatically post new posts to twitter
 - Add CV to website?
-- Add Dark Mode
-- Shorten sentence to one line: "Curious about my thoughts? Posts has fun stories & short musings."
+- Shorten sentence to one line (60 char limit for Firefox): "Curious about my thoughts? Posts has fun stories & short musings."
 
 
 

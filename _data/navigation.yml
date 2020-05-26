@@ -7,6 +7,9 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Dark Mode"
+    url: https://danielrdowns.github.io/website-darkmode/
+    
     
 sidebar-sample:
   - title: "Navigation"
@@ -19,5 +22,8 @@ sidebar-sample:
         url: /about/
       - title: "Contact"
         url: /contact/
+      - title: "Dark Mode"
+        url: https://danielrdowns.github.io/website-darkmode/      
+    
 
     

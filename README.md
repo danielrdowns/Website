@@ -26,7 +26,6 @@ To do List:
 - Migrate Medium articles from Medium to the website
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Point page to proper URL
-- Make new "About" page content 
 - Public launch
 
 v2.0 feature requests

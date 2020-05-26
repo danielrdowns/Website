@@ -30,6 +30,10 @@ To do List:
 - Public launch
 
 v2.0 feature requests
+- Figure out what should go on About page:
+-- Maybe writings by collection?
+-- Maybe Fun Facts
+-- Maybe change site layout; replace index.html with Recent Posts content and return About page to prior status quo
 - System automatically post new posts to twitter
 - Add CV to website?
 - Add Dark Mode

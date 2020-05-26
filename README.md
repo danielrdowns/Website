@@ -21,9 +21,9 @@ To do List:
 - <s> Create About page and Posts page </s>
 - <s> Remove posts from mmistakes fork </s>
 - <s> Website launch new Post </s>
-- Migrate "About" page content to the front page
-- Migrate Medium articles from Medium to the website
+- <s>Migrate "About" page content to the front page</s>
 - Create "Website" page under projects
+- Migrate Medium articles from Medium to the website
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Point page to proper URL
 - Make new "About" page content 

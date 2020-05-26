@@ -9,7 +9,7 @@ sidebar:
 
 Have a question for me?
 
-My [direct messages on Twitter](https://twitter.com/dandownsstartup) <b>are open</b>. 
+My [direct messages on Twitter](https://twitter.com/dandownsstartup) are <b>open</b>. 
 
 Please keep all messages short and succinct.
 

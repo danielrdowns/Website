@@ -25,7 +25,7 @@ We are reminded of our mortality, our fragility, and our station in an unforgivi
 
 This is not a bad thing. Seeing the world as it is allows one to take appropriate action.
 
-<i>Homo sapiens</i> did not outcompete other human species & spread to all corners of our globe by fleeing adversity, but through identifying challenges on the road ahead and dealing with them appropriately.
+<i>Homo sapiens</i> did not outcompete other human species & spread to all corners of our globe by fleeing adversity, but through identifying challenges on the road ahead and dealing with them appropriately.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 At this time we should [take stock, figure out where we want to go from here, decide a course of action, and execute.
 ](https://en.wikipedia.org/wiki/OODA_loop) 
@@ -34,3 +34,6 @@ For us as individuals and organizations - as families and communities - the choi
 
 Now is the time to roll up our shirtsleeves and get to work.
 
+<hr></hr>
+
+<sup id="fn1">1. [Text of footnote 1]<a href="#ref1" title="The specific method by which <i>Homo sapiens</i> ended up on top is still debated. All we know is that we're here and <i>Homo neanderthalensis</i> are not.">↩</a></sup>

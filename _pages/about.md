@@ -14,3 +14,4 @@ Curious about my thoughts? [Posts](/posts/) has fun stories & short musings.
 Care to drop me a line? Browse [Contact](/contact/) for how to best connect.
 
 
+

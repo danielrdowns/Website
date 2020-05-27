@@ -11,10 +11,10 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:    
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/Defilade logo 2020 03 17a.png
     alt: "fully responsive"
     title: "Defilade"
-    excerpt: "This is some sample content that goes here with Markdown formatting."
+    excerpt: "<p>Defilade makes products for enterprises growing the American defense industrial base.</p>"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

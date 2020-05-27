@@ -4,10 +4,10 @@ permalink: /projects/
 title: "Projects"
 
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: website photo darkmode 2020 05 27a.png
     alt: "customizable"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with Markdown formatting."
+    title: "danielrdowns.com"
+    excerpt: "The website 'danielrdowns.com' is the personal website of Dan Downs. You're on it."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

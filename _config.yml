@@ -171,10 +171,10 @@ defaults:
         nav: sidebar-sample
   # _projects
   - scope:
-      path: "_projects"
-      type: projects
+      path: ""
+      type: recipe
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true

@@ -20,11 +20,12 @@ To do List:
 - <s> Create About page and Posts page </s>
 - <s> Remove posts from mmistakes fork </s>
 - <s> Website launch new Post </s>
-- <s>Migrate "About" page content to the front page </s>
-- <s>Add Dark Mode </s>
+- <s> Migrate "About" page content to the front page </s>
+- <s> Add Dark Mode </s>
+- <s> Point page to proper URL </s>
 - Create "Website" page under projects
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
-- Point page to proper URL
+
 - Public launch
 
 v2.0 feature requests

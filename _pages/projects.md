@@ -2,7 +2,7 @@
 permalink: /projects/
 title: "Projects"
 
-layout: home
+layout: splash
 author_profile: true
 
 ---

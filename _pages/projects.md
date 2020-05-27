@@ -14,7 +14,7 @@ feature_row1:
     alt: "fully responsive"
     title: "Defilade"
     excerpt: "This is some sample content that goes here with Markdown formatting."
-    url: 
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:

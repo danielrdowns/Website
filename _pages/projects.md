@@ -29,8 +29,6 @@ feature_row2:
 ---
 
 
--
--
 
 {% include feature_row %}
 

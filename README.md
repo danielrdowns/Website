@@ -29,7 +29,7 @@ To do List:
 - Public launch
 
 v2.0 feature requests
-- Migrate Medium articles from Medium to the website
+- Migrate Medium articles to the website
 - Figure out what should go on About page:
 -- Maybe writings by collection?
 -- Maybe Fun Facts

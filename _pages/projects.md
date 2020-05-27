@@ -6,7 +6,7 @@ title: "Projects"
 feature_row:
   - image_path: /assets/images/website photo darkmode 2020 05 27a.png
     alt: "customizable"
-    title: "Website"
+    subtitle: "Website"
     excerpt: "<p>The website 'danielrdowns.com' is the personal website of Dan Downs.</p> <p> You're on it.</p>"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
@@ -27,6 +27,9 @@ feature_row:
     btn_label: "Learn more"  
 ---
 
+
+-
+-
 
 {% include feature_row %}
 

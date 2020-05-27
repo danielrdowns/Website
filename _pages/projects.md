@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 
 feature_row:
-  - image_path: website photo darkmode 2020 05 27a.png
+  - image_path: /assets/images/website photo darkmode 2020 05 27a.png
     alt: "customizable"
     title: "danielrdowns.com"
     excerpt: "The website 'danielrdowns.com' is the personal website of Dan Downs. You're on it."

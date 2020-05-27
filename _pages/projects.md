@@ -14,14 +14,15 @@ feature_row1:
     alt: "fully responsive"
     title: "Defilade"
     excerpt: "This is some sample content that goes here with Markdown formatting."
-    url: "/docs/layouts/"
+    url: 
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: https://images.squarespace-cdn.com/content/v1/58ec32062994cac6dfa5b5bd/1558538897144-ACLUYHIO4GRHCHFS75M6/ke17ZwdGBToddI8pDm48kIrRZUVcC0ydPBoJ-vJDX3F7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVt6WkJ83i6aDidGuykPx6hA-aOxH-GPaD-yoLvaOoyNbSexTd1-frD7527z4SM9QQ/R3_logo_icon_solid_indigo.png
     alt: "100% free"
     title: "R3 Printing"
-    excerpt: "This is some sample content that goes here with Markdown formatting."
+    excerpt: "<p>R3 Printing builds industrial automation technology for the 3D-printed, manufactured-on-demand future.
+</p> <p>test test</p>"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  

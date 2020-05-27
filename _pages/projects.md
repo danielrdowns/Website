@@ -1,8 +1,8 @@
 ---
-#permalink: /projects/
-#title: "Projects"
+permalink: /projects/
+title: "Projects"
 
-layout: home
+layout: single
 author_profile: true
 ---
 

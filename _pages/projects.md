@@ -6,7 +6,7 @@ feature_row1:
   - image_path: /assets/images/website photo darkmode 2020 05 27a.png
     alt: "customizable"
     title: "Website"
-    excerpt: "<p>The website 'danielrdowns.com' is the personal website of Dan Downs.</p> <p> You're on it.</p>"
+    excerpt: "<p>The website 'danielrdowns.com' is the personal website of Dan Downs.</p>"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -22,7 +22,7 @@ feature_row2:
     alt: "100% free"
     title: "R3 Printing"
     excerpt: "<p>R3 Printing builds industrial automation technology for the 3D-printed, manufactured-on-demand future.
-</p> <p>test test</p>"
+</p>"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  

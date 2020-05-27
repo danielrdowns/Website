@@ -2,7 +2,7 @@
 permalink: /projects/
 title: "Projects"
 
-feature_row:
+feature_row1:
   - image_path: /assets/images/website photo darkmode 2020 05 27a.png
     alt: "customizable"
     title: "Website"
@@ -27,9 +27,9 @@ feature_row2:
     btn_label: "Learn more"  
 ---
 
+{% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row2 %}
 
 

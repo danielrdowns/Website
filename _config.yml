@@ -169,12 +169,12 @@ defaults:
       sidebar:
         title: ""
         nav: sidebar-sample
-  # _recipes
+  # _projects
   - scope:
-      path: ""
-      type: recipes
+      path: "_projects"
+      type: projects
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       comments: true

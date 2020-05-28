@@ -9,9 +9,9 @@ Minimal Mistakes is a Jekyll theme by [Michael Rose](https://mademistakes.com/).
 
 Source code can be found at the following repositories:
 
-[Dark Mode](https://github.com/danielrdowns/website-darkmode)
-
 [Light Mode](https://github.com/danielrdowns/website)
+
+[Dark Mode](https://github.com/danielrdowns/website-darkmode)
 
 A history of site updates can be found [here](/website-history/).
 

@@ -3,7 +3,7 @@ permalink: /website-explainer/
 title: "About this Website"
 ---
 
-This website was built using a modified version of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/), a Jekyll theme by [Michael Rose](https://mademistakes.com/). 
+This website is  built on a modified version of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/), a Jekyll theme by [Michael Rose](https://mademistakes.com/). 
 
 Source code can be found at the following repositories:
 

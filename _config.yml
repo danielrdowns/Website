@@ -26,6 +26,7 @@ url                      : "https://danielrdowns.github.io/website" # the base h
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "danielrdowns/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 favicon                  : "assets/images/downs photo cropped.png"
+shortcut_icon            : "assets/images/downs photo cropped.png"
 teaser                   : "assets/images/downs photo cropped.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title.

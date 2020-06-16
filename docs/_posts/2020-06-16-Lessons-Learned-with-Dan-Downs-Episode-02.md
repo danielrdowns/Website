@@ -12,12 +12,9 @@ tags:
   - video
   - Youtube
   
-header:
-  image: assets/images/thumbnail 2.png
-  og_image: assets/images/thumbnail 2.png
 ---
 
-'{% raw %}<img src="{{danielrdowns.com}}{{danielrdowns.github.io/website}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
+'{% raw %}<img src="{{https://danielrdowns.com}}{{https://danielrdowns.github.io/website}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
 
 <b>Episode Link:</b>
 https://youtu.be/z0L8arF3OFY

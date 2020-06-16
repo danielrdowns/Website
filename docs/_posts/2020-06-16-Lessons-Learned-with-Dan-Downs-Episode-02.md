@@ -14,8 +14,8 @@ tags:
   
 ---
 
+[![foo](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/thumbnail%202.png?raw=true)](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/thumbnail%202.png?raw=true)
 
-![image-center]({{ danielrdowns.com }}{{ danielrdowns.github.io }}assets/images/thumbnail 2.png){: .align-center}
 
 <b>Episode Link:</b>
 - https://youtu.be/z0L8arF3OFY

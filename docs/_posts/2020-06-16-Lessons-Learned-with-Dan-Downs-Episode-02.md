@@ -14,7 +14,8 @@ tags:
   
 ---
 
-'{% raw %}<img src="{{https://danielrdowns.com}}{{https://danielrdowns.github.io/website}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
+
+[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)
 
 <b>Episode Link:</b>
 https://youtu.be/z0L8arF3OFY

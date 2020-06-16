@@ -13,7 +13,7 @@ tags:
   - Youtube
 ---
 
-{% raw %}<img src="{{danielrdowns.com}}{{danielrdowns.com}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
+{% raw %}<img src="{{danielrdowns.com}}{{danielrdowns.github.io/website}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
 
 <b>Episode Link:</b>
 https://youtu.be/z0L8arF3OFY

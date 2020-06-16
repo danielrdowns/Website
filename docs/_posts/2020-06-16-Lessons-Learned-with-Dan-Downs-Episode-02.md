@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![image-center]({{ danielrdowns.com }}{{ site.baseurl }}assets/images/thumbnail 2.png){: .align-center}
+![image-center]({{ danielrdowns.com }}{{ danielrdowns.github.io }}assets/images/thumbnail 2.png){: .align-center}
 
 <b>Episode Link:</b>
 - https://youtu.be/z0L8arF3OFY

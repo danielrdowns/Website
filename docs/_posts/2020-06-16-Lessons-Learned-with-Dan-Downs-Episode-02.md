@@ -15,7 +15,7 @@ tags:
 ---
 
 
-[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)
+[![foo](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/thumbnail%202.png)](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/thumbnail%202.png)
 
 <b>Episode Link:</b>
 https://youtu.be/z0L8arF3OFY

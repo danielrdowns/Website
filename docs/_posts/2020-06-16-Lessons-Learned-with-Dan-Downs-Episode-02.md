@@ -13,6 +13,11 @@ tags:
   - Youtube
 ---
 
+{% raw %}<img src="{{danielrdowns.com}}{{danielrdowns.com}}/assets/images/thumbnail 2.png" alt="">{% endraw %}
+
+<b>Episode Link:</b>
+https://youtu.be/z0L8arF3OFY
+
 <b>Episode summary:</b>
 
 - We unveil the website that has been built over the last week. 

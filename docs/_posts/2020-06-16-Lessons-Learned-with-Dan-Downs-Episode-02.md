@@ -18,7 +18,7 @@ link: https://youtu.be/z0L8arF3OFY
 
 
 <b>Episode Link:</b>
-- [Link](https://youtu.be/z0L8arF3OFY)
+- [Click HERE](https://youtu.be/z0L8arF3OFY)
 
 <b>Episode summary:</b>
 

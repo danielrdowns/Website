@@ -27,12 +27,12 @@ tags:
 <b>Observations:</b>
 
 - Using Loom was good for this video.
-- For the next video, I'll likely going to shoot via two separate Looms, the first focusing on video of me and the second doing the picture-in-picture for focusing primarily on what's happening on screen.
+- For the next video, I will likely shoot via two separate Looms, the first focusing on video of me and the second doing the picture-in-picture for focusing primarily on what's happening on screen.
 	
 
 <hr>References
 
-<sup id="fn1">1. [Gary Tan's streaming setup guide] (https://youtu.be/FcjbpX7cnEI). <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
+<sup id="fn1">1. [Garry Tan's streaming setup guide](https://youtu.be/FcjbpX7cnEI). <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
 
 <sup id="fn2">2. [Lowko's Streaming Setup](https://lowko.tv/setup/) <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 

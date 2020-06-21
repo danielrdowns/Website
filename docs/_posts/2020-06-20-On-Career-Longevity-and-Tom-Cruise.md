@@ -26,6 +26,6 @@ Thank you, Tom Cruise.
 
 <sup id="fn1">1. "[A] skin stretched over ambition" is a delightful turn of phrase that served as the inspiration for writing this. <a href="#ref1" title="Jump back to Footnote 1">↩</a></sup>
 
-<sup id="fn2">2. Alternatively - In the Glanton Gang that is Hollywood's cinematic juggernaut, Tom Cruise is undoubtedly its [Judge Holden] (https://en.wikipedia.org/wiki/Blood_Meridian). Ageless and more force of nature than anything else, his singular philosophy expressed by the ceaseless execution of his craft characterizes him above all else.  <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+<sup id="fn2">2. Alternatively - In the Glanton Gang that is Hollywood's cinematic juggernaut, Tom Cruise is undoubtedly its [Judge Holden] (https://en.wikipedia.org/wiki/Blood_Meridian). Ageless and a force of nature more than anything else, his singular philosophy expressed by the ceaseless execution of his craft characterizes him above all else.  <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
 
 

@@ -14,7 +14,7 @@ The [noted European politics commentator Niccolo Soldo](https://amgreatness.com/
 
 [![foo](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/tweet2.png?raw=true)](https://github.com/danielrdowns/website/blob/gh-pages/assets/images/tweet2.png?raw=true)
 
-With his unchanging and almost unaged-face continuing to dominate one sheets in a landscape of passing faces, temporary fads, and stamina-lacking upstarts, Cruise seems to be the immovable object personified. <sup><a href="#fn2" id="ref2">2</a></sup>
+With his unchanging and almost-unaged face continuing to dominate one sheets in a landscape of passing faces, temporary fads, and stamina-lacking upstarts, Cruise seems to be the immovable object personified. <sup><a href="#fn2" id="ref2">2</a></sup>
 
 For those of us focused on building things, it is a pleasure to admire the work of those in other industries. For me, Cruise's commitment to continued excellence is much appreciated. 
 

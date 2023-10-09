@@ -11,9 +11,7 @@ tags:
   - Philosophy
 ---
 
-Note: This essay was originally published off-site on February 19, 2023. This is a tool-assisted and agent-assisted product and has been edited for clarity. 
-
-"There's no chemical solution to a spiritual problem" - Christopher Moltisanti, The Sopranos
+<b>"There's no chemical solution to a spiritual problem" - Christopher Moltisanti, <i> The Sopranos </i> </b>
 
 I often reflect on this insightful quote from one of the more troubled characters in HBO's "The Sopranos." It accurately identifies that many problems we face have spiritual roots, and perceived quick fixes, whether they are technological, chemical, or otherwise, often fail to address the underlying causes.
 
@@ -30,3 +28,5 @@ One particularly intriguing aspect is how artisanal manufacturing operations lay
 When evaluating how a business can best contribute to the American defense industrial base, factors such as longevity and stability often outweigh short-term gross profits. Prior to the software era, nearly every large business began as a small one. Beretta, for instance, originated as an artisanal forge producing arquebus barrels. Today, it stands as one of the largest firearms manufacturers and remains a family-run business for almost 500 years. In the realm of industrial operations at an artisanal scale, Honda's journey started with bicycles before transitioning to cars, Lamborghini began with tractors before venturing into automobiles, and even Walmart, the colossal retail giant, had humble beginnings as a single store before expanding into a global shopping empire.
 
 As we navigate the complexities of modern industry and defense, we must not overlook the enduring value of artisanal manufacturing. These small-scale operations offer a path to diversification, decentralization, and resilience, echoing the timeless wisdom that there's no chemical solution to a spiritual problem.
+
+<b>Note:</b> This essay was originally published off-site on February 19, 2023. This is a tool-assisted and agent-assisted product and has been edited for clarity. 

@@ -11,7 +11,7 @@ tags:
   - Philosophy
 ---
 
-Title: Rediscovering Light Industry: Building the Foundation for Future Growth
+Note: This essay was originally published off-site on February 19, 2023. This is a tool-assisted and agent-assisted product and has been edited for clarity. 
 
 "There's no chemical solution to a spiritual problem" - Christopher Moltisanti, The Sopranos
 

@@ -1,5 +1,5 @@
 ---
-title: "Another Test Post"
+title: "Rediscovering Light Industry: Building the Foundation for Future Growth"
 categories:
   - Docs
   - Annoucements

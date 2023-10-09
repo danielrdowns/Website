@@ -1,5 +1,5 @@
 ---
-title: "Rediscovering Light Industry: Building the Foundation for Future Growth"
+title: "Rediscovering Artisanal Manufacturing: Building the Foundation for Future Growth"
 categories:
   - Docs
   - Annoucements
@@ -15,9 +15,9 @@ tags:
 
 I often reflect on this insightful quote from one of the more troubled characters in HBO's "The Sopranos." It accurately identifies that many problems we face have spiritual roots, and perceived quick fixes, whether they are technological, chemical, or otherwise, often fail to address the underlying causes.
 
-Over the years, countless discussions have revolved around the restoration of American manufacturing and the revitalization of the American defense industrial base. These discussions are typically filled with lofty aspirations, calling for grand endeavors and paradigm-shifting ventures. However, one aspect that hasn't received sufficient attention in this discourse is the resurgence of American light industry.
+Over the years, countless discussions have revolved around the restoration of American manufacturing and the revitalization of the American defense industrial base. These discussions are typically filled with lofty aspirations, calling for grand endeavors and paradigm-shifting ventures. However, one aspect that hasn't received sufficient attention in this discourse is the resurgence of American artisanal manufacturing.
 
-Light industry, characterized as artisanal or small-scale manufacturing primarily focused on producing goods for individual consumers rather than businesses, includes historical examples such as the local butcher, baker, and candlestick maker.
+Artisanal manufacturing, also known as light industry, is characterized as small-scale manufacturing that is primarily focused on producing goods for individual consumers rather than businesses. Professions that fall under artisanal labor include the historical examples of the local butcher, baker, and candlestick maker.
 
 While today, these roles are often associated with heavy-industry operations optimized for meeting customer demands at scale, there are still professionals who maintain smaller artisanal operations. These small businesses serve local communities, relying on human labor for production, in contrast to automated machinery. This doesn't negate the existence of capital expenses for necessities like infrastructure and tools, but it emphasizes that today's local butchers, bakers, and candlestick makers uphold traditional craftsmanship reminiscent of their counterparts before widespread industrialization.
 
